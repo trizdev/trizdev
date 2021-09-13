@@ -2,7 +2,7 @@
   
   I'm 22 years old web development student interested in Full-Stack as well as information security (InfoSec)
   
-  # :email: Feel free to contact me on [Linkedin](https://www.linkedin.com/in/anabdemorais/) 
+  # :blossom: Feel free to contact me on [Linkedin](https://www.linkedin.com/in/anabdemorais/) :email:
   
   ### :blossom: I'm currently learning :woman_student:<h3>
  
