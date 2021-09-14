@@ -10,7 +10,6 @@
 * CSS
 * Javascript
 * React
-* Angular
 * Jest
 * Node
 * TypeScript
