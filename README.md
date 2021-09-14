@@ -12,9 +12,6 @@
 * React
 * Jest
 * Node
-* TypeScript
-* Mysql
-* AWS
   
   ![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=trizdev&show_icons=true&theme=monokai)
   
