@@ -1,25 +1,29 @@
-  # :blossom:Hello, everyone :two_hearts:<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  #  <h1 align="center"> :blossom: Hello, everyone <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  ## <h1 align="center"> :blossom: My name is Ana Beatriz and welcome to my GitHub! :two_hearts:
   
-  I'm 22 years old web development student interested in Full-Stack as well as information security (InfoSec)
+  <p align="center">I'm 22 years old web development student based in Brazil interested in Full-Stack as well as information security (InfoSec)
+    
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anabdemorais/)
+[<img src="https://img.shields.io/github/followers/trizdev?label=follow&style=social" height="22" title="Follow me" />](https://github.com/trizdev) 
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/anabearquismo)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:anabdemorais@gmail.com) </P>
   
-  # :blossom: Feel free to contact me on [Linkedin](https://www.linkedin.com/in/anabdemorais/) :email:
-  
-  ### :blossom: I'm currently learning :woman_student:<h3>
- 
-* HTML
-* CSS
-* Javascript
-* React
-* Jest
-* Node
-  
+  **Few details**
+
+  - I love reading (sci-fic, classic literature, philosophy) and programming!
+
+  - I’m currently learning web development - now focusing on back-end - :woman_student:🌱
+    
+  **Goals for 2022:**
+- [ ] Participate in a Hackaton
+- [ ] Create a personal website
+- [ ] Expand my portfolio
+    
   ![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=trizdev&show_icons=true&theme=monokai)
   
+> <h2 align="center"> An individualist is a man who says: I will not run anyone’s life – nor let anyone run mine. I will not rule nor be ruled. I will not be a master nor a slave. I will not sacrifice myself to anyone – nor sacrifice anyone to myself.
   
-  
-> # An individualist is a man who says: I will not run anyone’s life – nor let anyone run mine. I will not rule nor be ruled. I will not be a master nor a slave. I will not sacrifice myself to anyone – nor sacrifice anyone to myself.
-  
-> Ayn Rand
+  > Ayn Rand </h2>
 
 
 
