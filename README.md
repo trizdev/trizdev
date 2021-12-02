@@ -13,18 +13,15 @@
   - I’m currently learning web development - now focusing on back-end - :woman_student:🌱
     
     **Goals for 2022:**
-- [ ] Participate in a Hackaton
 - [ ] Create a personal website
 - [ ] Expand my portfolio
-- [ ] Learn Java
   
   
   **Goals for 2021:**
 - [x] Learn HTML and CSS
 - [x] Learn JavaScript
 - [x] Learn React.Js
-- [ ] Finish my bootcamp
-- [ ] Finish my Angular Course
+- [x] Finish my bootcamp
 - [x] Start working
     
   ![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=trizdev&show_icons=true&theme=monokai)
