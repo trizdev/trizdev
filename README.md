@@ -1,7 +1,7 @@
   #  <h1 align="center"> :blossom: Hello, everyone <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   ## <h1 align="center"> :blossom: My name is Ana Beatriz and welcome to my GitHub! :two_hearts:
   
-  <p align="center">I'm a 22 years old web development student based in Brazil interested in Full-Stack as well as information security (InfoSec). Currently working at Hostinger Brasil and willing to become a programmer :D.
+  <p align="center">I'm a 22 years old web development student based in Brazil interested in Full-Stack as well as information security (InfoSec).
     
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anabdemorais/)
 [<img src="https://img.shields.io/github/followers/trizdev?label=follow&style=social" height="22" title="Follow me" />](https://github.com/trizdev) 
