@@ -1,76 +1,30 @@
-<div align="center">
+<br/>
 
-```
-                          .=:             .-:
-                          :#*.            +*-
-                 ..       =#%@*=        :#%%+
-                 .== ..   -%%%%%=      -*%%%*.    :++:
-                  .=%*=.  -%#%##%#*  .*@@###%+-=*%@%+.
-         .-:       :#@@%##+%%####%%#-+%%%#**#%%@%%@#=
-         :+*++-    .#%##%@%#**###%@%*#@%#***%@@##%%*-    .  -++.
-           -%@%%@@##*####*#@%*++***@%%*+++%@@#*%####=-+#%%@%@#-
-            -*%%#%##%@%%*+=#%#++#**%#+++*+#%*++*%#%*##@@##%@*-
-            .+@%%*##*#%@%#++##+=***#%*=++*%%++**%%#*##%#*%@@+:
-              *@%#**##++##%==%#+++++#+===##*++*%#*+*#*##%@%+.
-  .=+**#%@@###%#%%**#+++==*%*-*#====*===+#=-++##++#**##%@%#+=++=:..
-  -*#%%%%%#*###**%%#**+*+=+##==*+===+===+*==+%%++*#*##%@%####%#%%#*+:..
-     :+###%%#*##**++#%#*++==++--====+++=+===#==**+*%%#**+***##%#%%*+-:.
-        -#%###*+++++===*#*====**********#*++-==+#%#==+++######%#+-
-        .*#%%%#**++=+===+++--+*#****++*****+===***==++***%%@%%#+-..
-       .:+**####%%%%*++=---+**#+=--------+*#+=---=+*#%%%%%%%%%%%%%#*+:.
-   .-+#%%%%%##*++++++++*+==*++=----:------++*+=-++++++++*#*####%%%#####=
-...+#%%%%%%##**++=+++===--=+*++=-:-::----=****=--=-=+++**%#%%%%%#*--::=+
--+%**###%%%%%%###**+++++=--=++*+--:::::-=++*+===##%##%%%%@@@#+-..
-:-    .:-*##%##%%%%%#**+==-:-==+***====+*+#+=====++==++****#%%%=:
-         --=##%@%#+++++++=---===++*++++**++==-=#+++***+*****#%%#*:.
-         -+%@%#**+*#*++####=--------=--:--==-=+++#@%#***###%%#%#%%:
-         +#@%#**####**#@%#===+=+----:--:--+*+==*+=*%%%#%###%#%%%%%*=.
-        +@%#%%%%#%%%@%%+-=+++*#*===+++*==++*%#*++**++*@@*+*++====%##:
-      .=%%%@%#*####%++++**++#@++=+++%#*++++*+@@%###*****%+-..     :-=
-      :+%##+-::**=**+++**+**%#++++++%%******+#%%%%#%###*%*==-:     ..
-      =*-    .=:.+*#+##+**#@%+***####%%***#*#*++*%@%%%*###*-==:
-                .+###**#*%@#**##***%*=%@%***##**=:=+#%%%##*..::
-               ..+#######%*#**###%%#-:*@%***%##*+:-=-=#%##*: .:
-                .*###*=:..:*####%#*:-=--+%#**##*-:-++. :+#+
-                 -#*.      =+##%+. -*+-:..+*#*#+  .--.  .=-
-                 :+=       :+##*:. :*+-...-=###=   .:.   ..
-                     ...   .-*:..:--*#::-:. +*=      .
-                 .:-===-==-:..   .:=#*=--.  -:.
-               .:=======-====:    .-##--:
-              :=====-=++==-===++: .-*+=:.
-             .-==-+++==-===-...:=-:+*=-     ..
-             .-===++======--.   ===*+=:    .---::.
-            .:=++====+==-:.     :=++=-.:-+===--===-.
-            .:++====-.          .=+==:=+=--===++--==-.
-            .-+====:.           .=*=--+-: -=+--+=--=-:
-            :-=--.              :=+===:     -==--=-==:
-```
+<h1 align="center">ana</h1>
 
-`ana` · cybersecurity student
+<p align="center">
+cybersecurity student · learning defensive security, one lab at a time
+</p>
 
-[![GitHub](https://img.shields.io/badge/trizdev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/trizdev)
-
-</div>
+<p align="center">
+<img src="https://img.shields.io/badge/cryptography-C9A2A6?style=flat-square" alt="cryptography" />
+<img src="https://img.shields.io/badge/blue%20team-A3B18A?style=flat-square" alt="blue team" />
+<img src="https://img.shields.io/badge/SIEM-C9A2A6?style=flat-square" alt="SIEM" />
+</p>
 
 <br/>
 
-### whoami
+#### focus
 
-```bash
-$ whoami
-ana
+- cryptography fundamentals
+- this semester: SOC & blue team basics, NIDS/IPS, HIDS & SIEM, vulnerability management
+- hands-on labs and clear notes
 
-$ cat ~/focus.txt
-focusing on:
-- Cryptography fundamentals
-- This semester: SOC & blue team basics, NIDS/IPS, HIDS & SIEM, vulnerability management
-- Networking fundamentals
-- Hands-on labs and clear notes
-```
+<br/>
 
-### github
+#### currently
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=trizdev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=00ADB5&text_color=E6EDF3" alt="github stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trizdev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=E6EDF3" alt="top languages" />
-</div>
+- **studying** · cryptography fundamentals
+- **this semester** · SOC & blue team basics
+
+<br/>
