@@ -1,4 +1,6 @@
-<br/>
+<p align="center">
+.·:*¨*:·.
+</p>
 
 <h1 align="center">ana</h1>
 
@@ -12,7 +14,9 @@ cybersecurity student · learning defensive security, one lab at a time
 <img src="https://img.shields.io/badge/SIEM-C9A2A6?style=flat-square" alt="SIEM" />
 </p>
 
-<br/>
+<p align="center">
+.·:*¨¨* ❀ *¨¨*:·.
+</p>
 
 #### focus
 
@@ -20,11 +24,6 @@ cybersecurity student · learning defensive security, one lab at a time
 - this semester: SOC & blue team basics, NIDS/IPS, HIDS & SIEM, vulnerability management
 - hands-on labs and clear notes
 
-<br/>
-
-#### currently
-
-- **studying** · cryptography fundamentals
-- **this semester** · SOC & blue team basics
-
-<br/>
+<p align="center">
+.·:*¨¨* ❀ *¨¨*:·.
+</p>
