@@ -23,6 +23,7 @@ cybersecurity student · learning defensive security, one lab at a time
 - cryptography fundamentals
 - this semester: SOC & blue team basics, NIDS/IPS, HIDS & SIEM, vulnerability management
 - hands-on labs and clear notes
+- side projects: websites and android apps
 
 <p align="center">
 .·:*¨¨* ❀ *¨¨*:·.
